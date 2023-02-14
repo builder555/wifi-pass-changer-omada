@@ -2,7 +2,7 @@
 
 Rental wifi management application simplifies the process of changing passwords remotely. With this app you can easily change a WiFi password, or retrieve the current one for a guest wifi in your rental unit.
 
-You can run it as standalone application or as a docker image.
+You can run it as standalone application or as a docker container.
 
 ---
 
